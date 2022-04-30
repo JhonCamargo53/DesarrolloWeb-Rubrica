@@ -1,16 +1,14 @@
 .userRegisterImg {
   border-radius: 10px;
   
-  margin-bottom: 20px;
+  margin-bottom: 20 px;
   height:150px;
 }
 
 .information-form {
   height: 20%;
   margin: 10px;
-
 }
-
 
 .form-container {
   background-color: rgb(34, 79, 82);
@@ -22,7 +20,6 @@
   border-radius: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
-
 }
 
 .input-container {
