@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DesarrolloWeb-Rubrica/static/css/main.2a51d786.css",
+    "main.js": "/DesarrolloWeb-Rubrica/static/js/main.f99f948e.js",
+    "static/media/img1.jpg": "/DesarrolloWeb-Rubrica/static/media/img1.05416ee96efc8180e0f2.jpg",
+    "static/media/img2.jpg": "/DesarrolloWeb-Rubrica/static/media/img2.f530e09b0e3693845a53.jpg",
+    "index.html": "/DesarrolloWeb-Rubrica/index.html",
+    "main.2a51d786.css.map": "/DesarrolloWeb-Rubrica/static/css/main.2a51d786.css.map",
+    "main.f99f948e.js.map": "/DesarrolloWeb-Rubrica/static/js/main.f99f948e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a51d786.css",
+    "static/js/main.f99f948e.js"
+  ]
+}
